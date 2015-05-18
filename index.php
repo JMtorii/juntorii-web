@@ -36,6 +36,7 @@
             </div>
         </div>
 
+        <?php include 'helpers/footer_content.php';?>
 
         <!-- Bootstrap core JavaScript
         ================================================== -->

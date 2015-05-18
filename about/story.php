@@ -29,53 +29,71 @@
             </div>
         </nav>
 
-
-<!--         <div class="jumbotron">
-            <div class="container">
-                <h1>My Story</h1>
-            </div>
-        </div> -->
-
         <section id="intro" data-speed="6" data-type="background">
             <div class="container">
-                <h1>Jun Mark Torii</h1>
+<!--                 <h1>Jun Mark Torii</h1>-->            
             </div>
         </section>
 
-        <section id="home" data-speed="4" data-type="background">
+        <section id="story-section" data-speed="4" data-type="background">
             <div class="container">
-                <p>Originally from a visual arts and music background, Mark Torii has transitioned from the arts to engineering and computer science.</p>
-                <p>Mark is a Mississauga-raised Canadian who is originally Japanese and Korean. He is a video game collector and gamer, enjoys TV shows and movies, and loves watching NBA games. Mark went to Floradale Public School for elementary school then enrolled in various schools for middle and high school. After many successful academic years, Mark continued his education in the University of Waterloo in the Software Engineering Co-op program. He has had the opportunity to experience different co-op jobs and work on many personal projects.</p>
+                <div class="header">
+                    <p>Originally from a visual arts and music background, Mark Torii has transitioned from the arts to engineering and computer science.</p>
+                </div>
+                <div class="detail">
+                    <p>Mark is a Mississauga-raised Canadian who is originally Japanese and Korean. He is a video game collector and gamer, enjoys TV shows and movies, and loves watching NBA games. Mark went to Floradale Public School for elementary school then enrolled in various schools for middle and high school. After many successful academic years, Mark continued his education in the University of Waterloo in the Software Engineering Co-op program. He has had the opportunity to experience different co-op jobs and work on many personal projects.</p>
+                </div>
             </div>
         </section>
 
         <hr class="divider"></hr>
 
-        <section id="about" data-speed="2" data-type="background">
+        <section id="story-section" data-speed="2" data-type="background">
             <div class="container">
-                Final section.
+                <div class="header">
+                    <p>Mark Torii enters Allan A. Martin Senior Public School.</p>
+                </div>
+                <div id="middle-school-detail" class="detail">
+                    <p>In Grade 7 and 8, Mark learned fundamentals of business and technology-based skills. He had the opportunity to learn how to use Macromedia Flash/Fireworks and Microsoft Office software. In terms of business, he learned about performing business presentations, product marketing, and the process of creating a business. In Grade 8, Mark and his two classmates created a dessert business, Quick Fix Dessert Mix.</p>
+                </div>
             </div>
         </section>
 
+        <hr class="divider"></hr>
 
-<!--         <div class="container story">
-            <div class="row">
-                <h1>hi</h1>
+        <section id="story-section" data-speed="2" data-type="background">
+            <div class="container">
+                <div class="header">
+                    <p>After initially enrolling in a business school, Mark Torii decides to concentrate on a more engineering-based education.</p>
+                </div>
+                <div id="high-school-detail" class="detail">
+                    <p>After an enjoyable experience at Allan A. Martin, Mark enrolled in the IBT program at Gordon Graydon Memorial Secondary School for his first two high school years. He later switched schools to have a better engineering learning experience. Mark graduated from Port Credit Secondary School with a Grade 12 university admission average of 90.3.</p>
+                </div>
             </div>
+        </section>
 
-            <hr class="divider"></hr>
+        <hr class="divider"></hr>
 
-            <div class="row">
-                <h1>hi</h1>
+        <section id="story-section" data-speed="2" data-type="background">
+            <div class="container">
+                <div class="header">
+                    <p>Mark Torii enters post-secondary education at one of the best universities for engineering in the world.</p>
+                </div>
+                <div id="university-detail" class="detail">
+                    <p>Mark enrols in Software Engineering Co-op (Bachelor of Software Engineering) in the University of Waterloo. By enrolling in Software Engineering, he has had the opportunity to learn both computer science and engineering fundamentals, and apply them in labs and co-op terms. After five years, Mark will graduate with a BSE and have two years of actual work experience.</p>
+                </div>
             </div>
+        </section>
 
-            <hr class="divider"></hr>
+        <hr class="divider"></hr>
 
-            <div class="row">
-                <h1>hi</h1>
+        <section id="story-section" data-speed="2" data-type="background">
+            <div class="container">
+
             </div>
-        </div> -->
+        </section>
 
+        <?php include '../helpers/footer_content.php';?>
 
         <!-- Bootstrap core JavaScript
         ================================================== -->

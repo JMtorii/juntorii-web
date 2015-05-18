@@ -13,6 +13,8 @@
 
 <!-- Custom styles for this template -->
 <link href="http://juntorii.com/css/main.css" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,400italic,600italic' rel='stylesheet' type='text/css'>
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
