@@ -22,7 +22,7 @@
                         <li class="active"><a href="http://juntorii.com/index.php">home</a></li>
                         <li><a href="http://juntorii.com/about/story.php">story</a></li>
                         <li><a href="http://juntorii.com/about/work.php">work</a></li>
-                        <li><a href="http://juntorii.com/about/resume.php">resume</a></li>
+                        <li><a href="#">resume</a></li>
                     </ul>
                 </div>
             </div>
@@ -32,7 +32,7 @@
             <div class="main-container">
                 <h2 id="first">hi. i'm <i>mark torii</i>.</h2>
                 <h2 id="second">and i am a</h2>
-                <h1>gamer,<br>designer,<br>engineer,<br>software developer</h1>
+                <h1>gamer,<br>designer,<br>engineer, &<br>software developer</h1>
             </div>
         </div>
 

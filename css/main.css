@@ -68,7 +68,7 @@ footer .container {
 
 #intro {
     background: url(../images/home.jpg) 50% 0 fixed; 
-    height: 250px;  
+    height: 400px;  
     margin: 0 auto; 
     width: 100%; 
     position: relative; 
@@ -89,7 +89,7 @@ footer .container {
 
 .container .header {
     font-family: "Open Sans",serif;
-    font-size: 1.8em;
+    font-size: 2.0em;
     font-weight: 300;
 }
 
@@ -109,6 +109,18 @@ footer .container {
     margin: 0;
 }
 
+#ibt {
+    width: 350px;
+    position: absolute;
+    top: 120px;
+    left: 750px;
+}
+
+#ibt img {
+    width: inherit;
+    height: auto;
+}
+
 #high-school-detail {
     width: 50%;
     margin: 0;
@@ -116,7 +128,45 @@ footer .container {
     float: right;
 }
 
+#high-school-pic {
+    width: 380px;
+    position: absolute;
+    top: 220px;
+    left: 150px;
+}
+
+#high-school-pic img {
+    width: inherit;
+    height: auto;
+}
+
 #university-detail {
     width: 50%;
     margin: 0;
+}
+
+#waterloo-pic {
+    width: 200px;
+    position: absolute;
+    top: 160px;
+    left: 750px;
+}
+
+#waterloo-pic img {
+    width: inherit;
+    height: auto;
+}
+
+#workplace-detail {
+    text-align: center;
+}
+
+#companies {
+    padding-top: 30px;
+}
+
+#companies img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }

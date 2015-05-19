@@ -23,7 +23,7 @@
                         <li><a href="http://juntorii.com/index.php">home</a></li>
                         <li class="active"><a href="http://juntorii.com/about/story.php">story</a></li>
                         <li><a href="http://juntorii.com/about/work.php">work</a></li>
-                        <li><a href="http://juntorii.com/about/resume.php">resume</a></li>
+                        <li><a href="#">resume</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,7 +38,7 @@
         <section id="story-section" data-speed="4" data-type="background">
             <div class="container">
                 <div class="header">
-                    <p>Originally from a visual arts and music background, Mark Torii has transitioned from the arts to engineering and computer science.</p>
+                    <p>Mark Torii has transitioned from the arts to engineering and computer science.</p>
                 </div>
                 <div class="detail">
                     <p>Mark is a Mississauga-raised Canadian who is originally Japanese and Korean. He is a video game collector and gamer, enjoys TV shows and movies, and loves watching NBA games. Mark went to Floradale Public School for elementary school then enrolled in various schools for middle and high school. After many successful academic years, Mark continued his education in the University of Waterloo in the Software Engineering Co-op program. He has had the opportunity to experience different co-op jobs and work on many personal projects.</p>
@@ -56,6 +56,10 @@
                 <div id="middle-school-detail" class="detail">
                     <p>In Grade 7 and 8, Mark learned fundamentals of business and technology-based skills. He had the opportunity to learn how to use Macromedia Flash/Fireworks and Microsoft Office software. In terms of business, he learned about performing business presentations, product marketing, and the process of creating a business. In Grade 8, Mark and his two classmates created a dessert business, Quick Fix Dessert Mix.</p>
                 </div>
+
+                <div id="ibt">
+                    <img src="http://juntorii.com/images/ibt.jpg">
+                </div>
             </div>
         </section>
 
@@ -69,6 +73,10 @@
                 <div id="high-school-detail" class="detail">
                     <p>After an enjoyable experience at Allan A. Martin, Mark enrolled in the IBT program at Gordon Graydon Memorial Secondary School for his first two high school years. He later switched schools to have a better engineering learning experience. Mark graduated from Port Credit Secondary School with a Grade 12 university admission average of 90.3.</p>
                 </div>
+
+                <div id="high-school-pic">
+                    <img src="http://juntorii.com/images/high-school.jpg">
+                </div>
             </div>
         </section>
 
@@ -77,10 +85,14 @@
         <section id="story-section" data-speed="2" data-type="background">
             <div class="container">
                 <div class="header">
-                    <p>Mark Torii enters post-secondary education at one of the best universities for engineering in the world.</p>
+                    <p>Mark Torii enters one of the best universities for engineering in the world.</p>
                 </div>
                 <div id="university-detail" class="detail">
                     <p>Mark enrols in Software Engineering Co-op (Bachelor of Software Engineering) in the University of Waterloo. By enrolling in Software Engineering, he has had the opportunity to learn both computer science and engineering fundamentals, and apply them in labs and co-op terms. After five years, Mark will graduate with a BSE and have two years of actual work experience.</p>
+                </div>
+
+                <div id="waterloo-pic">
+                    <img src="http://juntorii.com/images/waterloo.jpg">
                 </div>
             </div>
         </section>
@@ -89,7 +101,16 @@
 
         <section id="story-section" data-speed="2" data-type="background">
             <div class="container">
+                <div class="header">
+                    <p>Mark Torii enters the workforce</p>
+                </div>
+                <div id="workplace-detail" class="detail">
+                    <p>Mark Torii has had the opportunity to intern at four different companies under five positions. A majority of these opportunities had him work on the mobile platform for various industries. From human resources to finance to game development, Mark has had the opportunity to have a feel for different types of companies.</p>
+                </div>
 
+                <div id="companies">
+                    <img src="http://juntorii.com/images/companies.jpg">
+                </div>
             </div>
         </section>
 
