@@ -22,7 +22,7 @@
                         <li class="active"><a href="http://juntorii.com/index.php">home</a></li>
                         <li><a href="http://juntorii.com/about/story.php">story</a></li>
                         <li><a href="http://juntorii.com/about/work.php">work</a></li>
-                        <li><a href="#">resume</a></li>
+                        <li><a href="http://juntorii.com/about/resume.php">resume</a></li>
                     </ul>
                 </div>
             </div>

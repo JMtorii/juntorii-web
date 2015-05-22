@@ -23,19 +23,19 @@
                         <li><a href="http://juntorii.com/index.php">home</a></li>
                         <li class="active"><a href="http://juntorii.com/about/story.php">story</a></li>
                         <li><a href="http://juntorii.com/about/work.php">work</a></li>
-                        <li><a href="#">resume</a></li>
+                        <li><a href="http://juntorii.com/about/resume.php">resume</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
 
-        <section id="intro" data-speed="6" data-type="background">
+        <section id="story-intro" data-speed="6" data-type="background">
             <div class="container">
-<!--                 <h1>Jun Mark Torii</h1>-->            
-            </div>
+<!--                  <h1>Jun Mark Torii</h1>
+ -->            </div>
         </section>
 
-        <section id="story-section" data-speed="4" data-type="background">
+        <section class="story-section" data-speed="4" data-type="background">
             <div class="container">
                 <div class="header">
                     <p>Mark Torii has transitioned from the arts to engineering and computer science.</p>
@@ -48,7 +48,7 @@
 
         <hr class="divider"></hr>
 
-        <section id="story-section" data-speed="2" data-type="background">
+        <section class="story-section" data-speed="2" data-type="background">
             <div class="container">
                 <div class="header">
                     <p>Mark Torii enters Allan A. Martin Senior Public School.</p>
@@ -65,24 +65,27 @@
 
         <hr class="divider"></hr>
 
-        <section id="story-section" data-speed="2" data-type="background">
+        <section class="story-section" data-speed="2" data-type="background">
             <div class="container">
                 <div class="header">
                     <p>After initially enrolling in a business school, Mark Torii decides to concentrate on a more engineering-based education.</p>
-                </div>
-                <div id="high-school-detail" class="detail">
-                    <p>After an enjoyable experience at Allan A. Martin, Mark enrolled in the IBT program at Gordon Graydon Memorial Secondary School for his first two high school years. He later switched schools to have a better engineering learning experience. Mark graduated from Port Credit Secondary School with a Grade 12 university admission average of 90.3.</p>
                 </div>
 
                 <div id="high-school-pic">
                     <img src="http://juntorii.com/images/high-school.jpg">
                 </div>
+
+                <div id="high-school-detail" class="detail">
+                    <p>After an enjoyable experience at Allan A. Martin, Mark enrolled in the IBT program at Gordon Graydon Memorial Secondary School for his first two high school years. He later switched schools to have a better engineering learning experience. Mark graduated from Port Credit Secondary School with a Grade 12 university admission average of 90.3.</p>
+                </div>
+
+                
             </div>
         </section>
 
         <hr class="divider"></hr>
 
-        <section id="story-section" data-speed="2" data-type="background">
+        <section class="story-section" data-speed="2" data-type="background">
             <div class="container">
                 <div class="header">
                     <p>Mark Torii enters one of the best universities for engineering in the world.</p>
@@ -99,7 +102,7 @@
 
         <hr class="divider"></hr>
 
-        <section id="story-section" data-speed="2" data-type="background">
+        <section class="story-section" data-speed="2" data-type="background">
             <div class="container">
                 <div class="header">
                     <p>Mark Torii enters the workforce</p>
